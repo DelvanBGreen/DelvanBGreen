@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**DelvanBGreen/DelvanBGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Green! 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at UC Merced
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development and Game Development
+
+## 🛠️ Technical Skills
+- Languages: C/++, Lua/Luau, MIPS Assembly, Python
+- Tools: Git, GitHub, VS Code, Roblox Studio
+- Concepts: Data Structures, Algorithms, Memory Management
+
+## 🚀 Featured Projects
+
+### ⚽ Roblox Soccer Game
+A multiplayer soccer game featuring:
+- Team and position selection
+- Match management system
+- Ball possession and kicking mechanics
+
+**Technologies:** Luau, Roblox Studio
+
+### 🔎 Word Search Solver
+A C program that uses recursion and backtracking
+to locate words in a two-dimensional grid.
+
+**Technologies:** C, Recursion, Backtracking
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/delvan-green-330630254/
+- Email: delvangreen13@gmail.com
+  
