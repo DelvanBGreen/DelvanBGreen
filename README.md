@@ -27,9 +27,10 @@ to locate words in a two-dimensional grid.
 **Technologies:** C, Recursion, Backtracking
 
 ### Discord Economy Bot
-A discord bot built it python that allows 
-users to play casino styled games, earn money and
-manage their money
+A Python Discord bot featuring a virtual economy,
+SQLite database, and interactive minigames.
+
+**Tech:** Python, discord.py, SQLite
 
 ##  Contact
 - LinkedIn: https://www.linkedin.com/in/delvan-green-330630254/
