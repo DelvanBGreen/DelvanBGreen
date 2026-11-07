@@ -12,13 +12,13 @@
 
 ##  Featured Projects
 
-###  Roblox Soccer Game
-A multiplayer soccer game featuring:
-- Team and position selection
-- Match management system
-- Ball possession and kicking mechanics
+###  Discord mod bot
+A discord moderation bot featuring:
+- several moderation commands
+- automod(IN PROGRESS)
+- a gui dashboard for view previous mod action and server stats(IN PROGRESS)
 
-**Technologies:** Luau, Roblox Studio
+**Technologies:** python, discord.py, ctkinter
 
 ###  Word Search Solver
 A C program that uses recursion and backtracking
